@@ -9,6 +9,8 @@
 <body>
     <?php
     echo "hello Naman";
+    echo "How are u";
+    
     ?>
 </body>
 </html>
