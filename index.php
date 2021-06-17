@@ -8,8 +8,8 @@
 </head>
 <body>
     <?php
-    echo " Naman";
-    echo "How are u";
+    echo " Naman How are u";
+   
     
     ?>
 </body>
